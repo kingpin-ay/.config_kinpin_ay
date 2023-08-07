@@ -15,5 +15,6 @@ Set-Alias -Name vim -Value nvim
 Set-Alias -Name less -Value 'C:\Program Files\Git\usr\bin\less.exe'
 Set-Alias -Name mcp -Value 'C:\Program Files\Git\usr\bin\cp.exe'
 Set-Alias -Name mmv -Value 'C:\Program Files\Git\usr\bin\mv.exe'
-
-
+Set-Alias -Name grep -Value 'C:\Program Files\Git\usr\bin\grep.exe'
+Set-Alias -Name mrm -Value 'C:\Program Files\Git\usr\bin\rm.exe'
+Set-Alias -Name mrmdir -Value 'C:\Program Files\Git\usr\bin\rmdir.exe'
